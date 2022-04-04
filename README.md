@@ -1,4 +1,2 @@
-# Git-github
-FAC - Prompts
-5. Git and Github
+# 5. Git-github<br>
 https://mariapaz.github.io/Git-github/
