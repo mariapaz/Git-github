@@ -1,3 +1,4 @@
 # Git-github
-FAC Prompt - Git and Github
+FAC - Prompts
+5. Git and Github
 https://mariapaz.github.io/Git-github/
